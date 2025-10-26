@@ -92,4 +92,3 @@ See `/docs` folder and `/docs/ai-integration.md`
 MIT License
 
 ## FAQ
-update
