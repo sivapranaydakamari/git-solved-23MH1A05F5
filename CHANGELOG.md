@@ -1,34 +1,15 @@
-# ChangeLog
-
-**Phase 4: Use All Git Commands**
-**4.1: Git Fetch & Pull**
-**Date:** 26-10-2025 | **Time:** 16:55
-- Used git fetch 1 time
-- Compared main with instructor/main using git diff
-- Used git pull 1 time
-
-**4.2: Git Stash**
-**Date:** 26-10-2025 | **Time:** 17:08
-- Created new branch 'feature/new-feature'
-- Worked on new feature and temporarily stashed changes
-- Switched branches, fixed issue, and restored stash
-- Used git stash 1 time
-
-**4.3: Git Cherry-Pick**
-**Date:** 26-10-2025 | **Time:** 17:13
-- Picked a specific commit from another branch
-- Used git cherry-pick 1 time
-
-**4.4: Git Rebase**
-**Date:** 26-10-2025 | **Time:** 17:23
-- Rebased feature branch onto main
-- Used git rebase 1 time
-
-**4.5: Git Reset & Revert**
-**Date:** 26-10-2025 | **Time:** 17:31
-- Used git reset 3 times (soft, mixed, hard)
-- Used git revert 1 time
-
-**4.6: Git Tag**
-**Date:** 26-10-2025 | **Time:** 17:48
-- Created 2 tags (v1.0.0, v1.1.0)
+- af19cae: Added the complete CHANGELOG.md (sivapranaydakamari, 31 minutes ago)
+- f302c4d: Remove duplicate CHANGELOG file (sivapranaydakamari, 42 minutes ago)
+- ba5e001: Adding all my working till now (sivapranaydakamari, 45 minutes ago)
+- b048324: docs: Update README (sivapranaydakamari, 59 minutes ago)
+- b5f19d2: feat: Add new feature (sivapranaydakamari, 75 minutes ago)
+- dd6381b: docs: ADD FAQ section (sivapranaydakamari, 77 minutes ago)
+- eda3761: Merge: Resolved conflicts between main and conflict-simulator (sivapranaydakamari, 2 hours ago)
+- 8a729b6: Added checkpoint2 screenshot (sivapranaydakamari, 5 hours ago)
+- ea633d2: merge: Resolve all conflicts between main and dev branches (sivapranaydakamari, 5 hours ago)
+- 08fd714: Added checkpoint1 screenshot (sivapranaydakamari, 6 hours ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 3 days ago)
+- 02011a5: updating dev (Hanu Gupta, 3 days ago)
+- 0312c6f: updating main (Hanu Gupta, 3 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 3 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 3 days ago)
