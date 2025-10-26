@@ -28,3 +28,7 @@
 **Date:** 26-10-2025 | **Time:** 17:31
 - Used git reset 3 times (soft, mixed, hard)
 - Used git revert 1 time
+
+**4.6: Git Tag**
+**Date:** 26-10-2025 | **Time:** 17:48
+- Created 2 tags (v1.0.0, v1.1.0)
